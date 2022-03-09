@@ -9,3 +9,9 @@ https://rachacuca.com.br/jogos/pinguins-numa-fria/
 software creação de fluxogramas:
 
 http://www.flowgorithm.org/
+
+---------------------------------------------------
+
+editor Markdown (.md) online
+
+https://stackedit.io/app#
