@@ -1,0 +1,11 @@
+Links para aprender lógica de programação:
+
+https://studio.code.org/s/mc/lessons/1/levels/1
+
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+---------------------------------------------------
+
+software creação de fluxogramas:
+
+http://www.flowgorithm.org/
